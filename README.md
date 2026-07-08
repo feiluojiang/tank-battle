@@ -3,6 +3,8 @@
 > 基于 React 19 + Canvas 的经典坦克大战复刻，运行于 [Meoo Cloud](https://meoo.com) 平台。
 > 支持单/双人、闯关与无尽模式、Boss 战、道具系统、强化商店与全球排行榜。
 
+🎮 **在线试玩**：https://vdlm6nwsgniq.meoo.fun
+
 📖 完整文档见 [Wiki](https://github.com/feiluojiang/tank-battle/wiki)
 
 ---
@@ -84,6 +86,8 @@ src/
 ```bash
 meoo deploy --force        # AI/CI：跳过确认，含沙箱推送
 ```
+
+公网访问地址：**https://vdlm6nwsgniq.meoo.fun** （Meoo CDN 托管，含 Supabase 排行榜云服务）
 
 数据库与排行榜基于 Supabase（RLS 保护），迁移文件在 `migrations/`。
 
