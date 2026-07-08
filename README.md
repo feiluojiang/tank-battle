@@ -7,8 +7,6 @@
   <img src="play-badge.svg" alt="在线体验 Meoo" height="34" />
 </a>
 
-[![部署状态](https://img.shields.io/badge/%E9%83%A8%E7%BD%B2%E7%8A%B6%E6%80%81-%E5%B7%B2%E9%83%A8%E7%BD%B2-brightgreen?style=for-the-badge)](https://vdlm6nwsgniq.meoo.fun)
-
 🔗 https://vdlm6nwsgniq.meoo.fun
 
 📖 完整文档见 [Wiki](https://github.com/feiluojiang/tank-battle/wiki)
