@@ -1,13 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="168" height="28" viewBox="0 0 168 28" role="img" aria-label="在线体验 Meoo">
   <title>在线体验 · Meoo</title>
-  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#22c55e"/>
-    <stop offset="1" stop-color="#16a34a"/>
-  </linearGradient>
-  <rect width="168" height="28" rx="6" fill="url(#g)"/>
-  <g transform="translate(5,4)">
-    <rect width="20" height="20" rx="5" fill="#7c59cd"/>
-    <path d="M12 3L6 11h3.4l-1 6 6.2-8h-3.5l1-6z" fill="#fff"/>
-  </g>
-  <text x="33" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12.5" font-weight="bold" fill="#fff">在线体验 · Meoo</text>
+  <rect width="168" height="28" rx="6" fill="#22c55e"/>
+  <rect x="5" y="4" width="20" height="20" rx="5" fill="#7c59cd"/>
+  <path d="M17 7L11 15h3.4l-1 6 6.2-8h-3.5l1-6z" fill="#fff"/>
+  <text x="33" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12.5" font-weight="700" fill="#fff">在线体验 · Meoo</text>
 </svg>
