@@ -4,7 +4,7 @@
 > 支持单/双人、闯关与无尽模式、Boss 战、道具系统、强化商店与全球排行榜。
 
 <a href="https://vdlm6nwsgniq.meoo.fun" target="_blank" rel="noopener">
-  <img src="https://raw.githubusercontent.com/feiluojiang/tank-battle/main/play-badge.svg" alt="在线体验 Meoo" height="34" />
+  <img src="https://cdn.jsdelivr.net/gh/feiluojiang/tank-battle@main/play-badge.svg" alt="在线体验 Meoo" height="34" />
 </a>
 
 🔗 https://vdlm6nwsgniq.meoo.fun
